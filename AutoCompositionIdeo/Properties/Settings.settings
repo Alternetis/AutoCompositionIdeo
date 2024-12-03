@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AutoCompositionIdeo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PrestaconnectConnection" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=DESKTOP-U274Q55;Initial Catalog=PRESTACONNECTIDEO;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="PrefixPrestashop" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">al_</Value>
+    </Setting>
+    <Setting Name="PrestashopConnection" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Server=localhost;Database=prestashop812;Uid=root;Pwd=;</Value>
+    </Setting>
+    <Setting Name="SageConnection" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=DESKTOP-U274Q55\MSSQLSERVER01;Initial Catalog=IDEO;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="Catalogue" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
